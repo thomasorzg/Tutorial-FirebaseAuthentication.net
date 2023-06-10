@@ -1,2 +1,2 @@
 # Tutorial-FirebaseAuthentication.net
-Tutorial de la utlización del NuGet de FirebaseAuthentication.net, enfocado para Xamarin.Forms
+Tutorial de la utilización del NuGet de FirebaseAuthentication.net, enfocado para Xamarin.Forms
